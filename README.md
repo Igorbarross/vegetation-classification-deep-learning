@@ -32,16 +32,16 @@ MATLAB • Deep Learning • Computer Vision • ResNet-18 • Transfer Learning
 
 ## Project Workflow
 
-![Project Workflow](project_workflow.png)
+![Project Workflow](images/project_workflow.png)
 
 ## Model Performance
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## NDVI Analysis
 
-![NDVI Analysis](ndvi_analysis.png)
+![NDVI Analysis](images/ndvi_analysis.png)
 
 ## Project Results
 
-![Project Results](project_results.png)
+![Project Results](images/project_results.png)
