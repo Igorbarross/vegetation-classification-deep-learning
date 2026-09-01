@@ -29,3 +29,19 @@ The main challenge was to characterize the vegetation of the study area entirely
 ## Technologies
 
 MATLAB • Deep Learning • Computer Vision • ResNet-18 • Transfer Learning • Sentinel-2 • NDVI • APIs • Image Processing • Remote Sensing
+
+## Project Workflow
+
+![Project Workflow](project_workflow.png)
+
+## Model Performance
+
+![Confusion Matrix](confusion_matrix.png)
+
+## NDVI Analysis
+
+![NDVI Analysis](ndvi_analysis.png)
+
+## Project Results
+
+![Project Results](project_results.png)
