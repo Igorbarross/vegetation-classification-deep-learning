@@ -1,0 +1,16 @@
+Metric,Result,Provenance
+Balanced vegetation dataset,1092 images,Archived validated project experiment
+Vegetation training set,764 images,Archived validated project experiment
+Vegetation validation set,164 images,Archived validated project experiment
+Vegetation independent test set,164 images,Archived validated project experiment
+Vegetation classifier accuracy,75.00 %,Archived validated project experiment
+Closed-set species classes,8 classes,Archived validated project experiment
+Closed-set species classifier accuracy,79.55 %,Archived validated project experiment
+Historical terrestrial images,54 images,Inventory generated during the current execution
+Historical observation points,9 points,Inventory generated during the current execution
+2010 mean NDVI,0.356,Archived validated satellite result
+2024 mean NDVI,0.461,Archived validated satellite result
+2024 dense vegetation,36.04 %,Archived validated satellite result
+2026 mean NDVI,0.484,Archived validated satellite result
+2026 dense vegetation,41.44 %,Archived validated satellite result
+NDVI change from 2010 to 2026,35.8 %,Calculated from archived validated NDVI values

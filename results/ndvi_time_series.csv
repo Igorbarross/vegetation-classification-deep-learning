@@ -1,0 +1,8 @@
+Year,Sensor,Mean_NDVI,Median_NDVI,Dense_vegetation_percent
+2010,Landsat 5,0.3563,0.33602,0
+2011,Landsat 5,0.39623,0.36996,8.333
+2018,Sentinel-2,0.43925,NaN,30.631
+2019,Sentinel-2,0.44651,NaN,30.631
+2022,Sentinel-2,0.41351,NaN,26.126
+2024,Sentinel-2,0.46087,0.49544,36.036
+2026,Sentinel-2,0.48402,0.51129,41.441
